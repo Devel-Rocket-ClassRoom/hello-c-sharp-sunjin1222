@@ -7,4 +7,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\ksj\Documents\GitHub\hello-c-sharp-sunjin1222\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\ksj\Documents\GitHub\hello-c-sharp-sunjin1222\.editorconfig" />
+  </ItemGroup>
+
 </Project>
